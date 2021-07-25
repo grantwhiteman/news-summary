@@ -25,6 +25,14 @@ So that I have something nice to look at
 I can see a relevant picture to illustrate each news article when I browse headlines
 ```
 
+|object|properties|messages|output|
+|---|---|---|---|
+|object|properties|messages|output|
+|object|properties|messages|output|
+|object|properties|messages|output|
+|object|properties|messages|output|
+
+
 ### Extended
 
 ```
