@@ -1,3 +1,32 @@
+News Summary challenge. 
+Creating a react app to display the news using BDD/TDD with Jest and Cypress.
+
+
+To get the code:
+```
+git clone 'git@github.com:grantwhiteman/news-summary-challenge.git'
+```
+To install dependencies:
+```
+npm install
+```
+To run the programme:
+```
+npm start
+```
+To run the jest tests:
+```
+npm test
+```
+To run the Cypress tests:
+```
+npx cypress open
+```
+
+Expected user interaction is the user loads the web page and sees headlines and corresponding images.
+
+# Specification:
+
 # News Summary Challenge
 
 ### Task
@@ -24,14 +53,6 @@ As a busy politician
 So that I have something nice to look at
 I can see a relevant picture to illustrate each news article when I browse headlines
 ```
-
-|object|properties|messages|output|
-|---|---|---|---|
-|object|properties|messages|output|
-|object|properties|messages|output|
-|object|properties|messages|output|
-|object|properties|messages|output|
-
 
 ### Extended
 
